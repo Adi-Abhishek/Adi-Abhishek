@@ -10,3 +10,7 @@
 - 📫 How to reach me: [Twitter-@Abhishekady9](https://twitter.com/abhishekady9)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I used to spend my time by learning new tech..
+
+
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=Adi-Abhishek&&theme=dark&show_icons=true)
