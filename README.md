@@ -6,14 +6,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🔭 I’m currently a 3rd year B-Tech-CSE student, learner and used to explore difference tech languages..
-- 🌱 I’m currently learning JAVA and PYTHON-DSA
-- 📫 How to reach me: [Twitter-@Abhishekady9](https://twitter.com/abhishekady9)
-- [LinkedIn-rack-abhishek](https://www.linkedin.com/in/rack-abhishek)
+- 🔭 I’m  a B-Tech-CSE student, learner and used to explore difference tech languages..
+- 🌱 I’m interested in Frontend Development, and Tech like: Java,C++
+- 📫 How to reach me: [Twitter-@Abhishekady9](https://twitter.com/abhishekady9)                   [LinkedIn-rack-abhishek](https://www.linkedin.com/in/rack-abhishek)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I used to spend my time by learning 
-
-
-## MY HACKTOBERFEST CONTRIBUTION RESULT[![@abhi9shek's Holopin board](https://holopin.me/abhi9shek)](https://holopin.io/@abhi9shek)
+-  @Hacktoberfest'22 @SSOC'22
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Adi-Abhishek&&theme=dark&show_icons=true)
