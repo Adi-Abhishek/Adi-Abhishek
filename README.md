@@ -13,6 +13,5 @@
 - ⚡ Fun fact: I used to spend my time by learning 
 -  **Participant** **of** @Hacktoberfest'22 @SSOC'22
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=Adi-Abhishek&&theme=dark&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adi-abhishek&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
