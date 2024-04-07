@@ -1,7 +1,7 @@
 ### Hi, I'm Abhishek kumar Roy👋
 
 
-- 👯 I’m looking to collaborate on different projects to learn 
+- 👯 I’m looking to collaborate on different projects to learn  
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
