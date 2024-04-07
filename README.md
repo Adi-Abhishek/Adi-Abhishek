@@ -12,6 +12,3 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I used to spend my time by learning 
 -  **Participant** **of** @Hacktoberfest'22 @SSOC'22
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adi-abhishek&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
