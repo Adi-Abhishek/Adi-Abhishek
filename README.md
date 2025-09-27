@@ -17,9 +17,9 @@
 
 - 🎓 **B.Tech in Computer Science & Engineering** from JNTU-GV
 - 🌱 Currently a **fresher** seeking opportunities as an <strong>SAP consultant</strong> and in <strong>Software Development</strong>
-- 🏅 <strong>SAP Certified</strong>  
+- 🏅 <strong>SAP Certified Associate - Back-End Developer - ABAP Cloud</strong>  
   <a href="https://www.credly.com/badges/813b5f34-9bb6-4ec6-b538-7401bf6f684e/public_url">
-    <img src="https://images.credly.com/size/340x340/images/0b7d33c1-39fa-4fa5-b95b-9c7b9e3e1ca1/blob.png" width="100" alt="SAP Certification Badge"/>
+    [![View Badge](https://img.shields.io/badge/SAP-Certified-blue?style=for-the-badge&logo=sap)](https://www.credly.com/badges/813b5f34-9bb6-4ec6-b538-7401bf6f684e/public_url)
   </a>
   
 - 💡 My strengths: <strong>coding, problem-solving, innovation</strong>
@@ -28,7 +28,23 @@
 - ⚡ Fun fact: I love learning new technologies and am an active Hacktoberfest & SSOC participant!
 
 ---
+## 🏅 Certifications
 
+<div align="center">
+
+<a href="https://www.credly.com/badges/813b5f34-9bb6-4ec6-b538-7401bf6f684e/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/65fe9e2c-6cac-4584-a5c3-a65e01516e7d/image.png" alt="SAP Certified Associate Badge" width="120"/>
+</a>
+<br>
+<strong>SAP Certified Associate</strong>
+<br>
+<span>
+  <a href="https://www.credly.com/badges/813b5f34-9bb6-4ec6-b538-7401bf6f684e/public_url" target="_blank">
+    View Certificate
+  </a>
+</span>
+
+</div>
 ## 🚀 Notable Projects
 
 <div align="center">
@@ -102,16 +118,20 @@
 
 ---
 
-## ✨ Inspiring Quote
+## ✨ Inspiring Quote  
 
-<p align="center" style="font-size: 1.2em;">
-  <strong>
-    “Yesterday is history,<br>
-    tomorrow is a mystery,<br>
-    and today’s a gift — <br>
-    that’s why it’s called the <span style='color:#007acc;'>present</span>.”
-  </strong>
-</p>
+<div align="center">
+
+🌟  
+<blockquote>
+<b>“Yesterday is history,<br>  
+Tomorrow is a mystery,<br>  
+and Today’s a gift —<br>  
+that’s why it’s called the <span style="color:#007acc;">present</span>.”</b>
+</blockquote>
+
+</div>
+
 
 ---
 
