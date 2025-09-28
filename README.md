@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Tech Lover Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=5AC18E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Kumar+Roy;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Roy</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adi-Abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Adi-Abhishek" />
@@ -78,7 +77,7 @@
 ---
 
 ## 🌐 Connect with Me
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rack-abhishek)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Abhishekady9)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekroy0824@gmail.com)
@@ -87,7 +86,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
   
@@ -108,14 +107,19 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi-Abhishek&show_icons=true&theme=tokyonight" alt="Adi Abhishek's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Abhishek&layout=compact&theme=merko" alt=Adi-Abhishek />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Abhishek&layout=compact&theme=merko" alt="Top Languages" />
+    </td>
+    <td>
+      <img height="180em" src="https://streak-stats.demolab.com/?user=Adi-Abhishek&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi-Abhishek&show_icons=true&theme=tokyonight" alt="Adi Abhishek's GitHub stats"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## ✨ Inspiring Quote  
@@ -124,10 +128,8 @@
 
 🌟  
 <blockquote>
-<b>“Yesterday is history,<br>  
-Tomorrow is a mystery,<br>  
-and Today’s a gift —<br>  
-that’s why it’s called the <span style="color:#007acc;">present</span>.”</b>
+<b>“Code is like humor. When you have to explain it, it’s bad."
+– Cory House.”</b>
 </blockquote>
 
 </div>
