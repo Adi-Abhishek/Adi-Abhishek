@@ -44,6 +44,8 @@
 </span>
 
 </div>
+
+---
 ## 🚀 Notable Projects
 
 <div align="center">
